@@ -1,0 +1,15 @@
+*.pyc
+*.sublime-project
+*.sublime-workspace
+.idea/
+.idea/*
+.vscode/
+.vscode/*
+.pytest_cache/
+.pytest_cache/*
+*.directory
+venv/
+venv/*
+__pycache__/
+__pycache__/*
+test.py
